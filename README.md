@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **VniciNN/vnicinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnicinn&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vnicinn&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vnicinn&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vnicinn&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vnicinn&theme=darcula&utcOffset=8)
