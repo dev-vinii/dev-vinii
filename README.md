@@ -7,4 +7,4 @@
 ### About me
 I'm a frontend and backend developer.
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vnicinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
