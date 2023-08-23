@@ -7,6 +7,4 @@
 ### About me
 I'm a frontend and backend developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?VniciNN=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
