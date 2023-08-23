@@ -1,20 +1,12 @@
 
-<!--
-**VniciNN/vnicinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vinicius! :D
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VniciNN)](https://github.com/VniciNN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/fagnerpsantos/](https://www.linkedin.com/in/vinicius-luna-3a013222b/))]([https://www.linkedin.com/in/fagnerpsantos/](https://www.linkedin.com/in/vinicius-luna-3a013222b/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+### About me
+I'm a frontend and backend developer.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnicinn&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vnicinn&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vnicinn&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vnicinn&theme=darcula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?VniciNN=anuraghazra&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?VniciNN=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
