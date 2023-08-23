@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-luna-3a013222b/)](https://www.linkedin.com/in/vinicius-luna-3a013222b/)
 
 ### About me
-I'm a frontend and backend developer.
+I'm a frontend/backend developer and systems development student.
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vnicinn&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vnicinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
