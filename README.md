@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vnicinn&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vnicinn&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vnicinn&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vnicinn&theme=darcula&utcOffset=8)
