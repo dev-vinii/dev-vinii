@@ -8,7 +8,6 @@
 I'm a frontend/backend developer and systems development student.
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vnicinn&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vnicinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
