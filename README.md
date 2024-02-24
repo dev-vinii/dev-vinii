@@ -7,4 +7,3 @@
 ### About me
 I'm a frontend/backend developer and systems development student.
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vnicinn&show_icons=true)
