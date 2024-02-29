@@ -1,10 +1,7 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-# Hi, I'm Vinicius! :D
+### Olá, meu nome é Vinicius}!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VniciNN)](https://github.com/VniciNN)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-luna-3a013222b/)](https://www.linkedin.com/in/vinicius-luna-3a013222b/)
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-### About me
-I'm a frontend/backend developer and systems development student.
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vnicinn&show_icons=true)
+<p>Trabalhando na MadeinWeb<br/> Eu sou desenvolvedor full stack</p>
