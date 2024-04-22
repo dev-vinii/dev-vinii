@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na MadeinWeb<br/> Eu sou desenvolvedor full stack</p>
+<p>Trabalhando na MadeinWeb<br/> Desenvolvedor FullStack</p>
