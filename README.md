@@ -1,4 +1,4 @@
-# <samp>Murillo Pezzuol</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
+# <samp>Vinicius Luna</samp>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/vinicin.ts)](https://www.instagram.com/vinicin.ts)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vinicius-luna-3a013222b/)]([https://www.linkedin.com/in/mupezzuol/](https://www.linkedin.com/in/vinicius-luna-3a013222b/))
