@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=dev-vinii&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
