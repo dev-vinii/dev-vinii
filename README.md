@@ -8,7 +8,7 @@
 
 <samp>Hello World!</samp>
 
-<samp>I'm Vinicius Luna, __Brazilian__ 🇧🇷, currently I'm a __Junior Software Egineer__ 🇧🇷, passionate about solving problems with technology and creating different solutions.
+<samp>I'm Vinicius Luna, __Brazilian__ 🇧🇷, currently I'm a __Software Egineer__ 🇧🇷, passionate about solving problems with technology and creating different solutions.
 
 - 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
